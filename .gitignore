@@ -1,0 +1,6 @@
+# Virtual environments
+.venv
+Datasets
+.ipynb_checkpoints
+__pycache__
+.gitattributes
