@@ -29,7 +29,7 @@ localization = st.selectbox(
 )
 
 # Upload file
-IMAGE_FOLDER = "Image"
+IMAGE_FOLDER = "Images"
 
 # Upload ảnh
 uploaded_file = st.file_uploader(
