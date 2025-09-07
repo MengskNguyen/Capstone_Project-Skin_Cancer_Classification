@@ -29,7 +29,7 @@ localization = st.selectbox(
 )
 
 # Upload file
-IMAGE_FOLDER = "Datasets/skin-cancer-mnist-ham10000/HAM10000_images_part_1"
+IMAGE_FOLDER = "Image"
 
 # Upload ảnh
 uploaded_file = st.file_uploader(
